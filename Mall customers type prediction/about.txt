@@ -1,0 +1,1 @@
+Using ml predicts spending type of customers by analyzing data from their basic information like age, sex, gender, educational qualification, income ext..
