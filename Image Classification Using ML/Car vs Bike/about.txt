@@ -1,2 +1,2 @@
-Develop a Deep Convolutional Neural Network Step-by-Step to Classify Photographs of Dogs and Cats
+Develop a Deep Convolutional Neural Network Step-by-Step to Classify Photographs of Cars and Bike
 
